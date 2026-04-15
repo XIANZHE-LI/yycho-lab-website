@@ -97,21 +97,21 @@ h1, h2, h3 {
 ## 2. 把 `styles.css` 里 gallery 相关部分替换成这个
 
 ```css
-.year-gallery {
+.gallery-grid {
   display: grid !important;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 20px;
+  grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+  gap: 24px;
   margin-bottom: 2.5rem;
 }
 
-.gallery-card {
+.gallery-item {
   background: white;
   border-radius: 18px;
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
   overflow: hidden;
 }
 
-.gallery-card img {
+.gallery-thumb {
   width: 100%;
   height: 260px;
   object-fit: cover;
@@ -120,53 +120,52 @@ h1, h2, h3 {
   transition: transform 0.2s ease;
 }
 
-.gallery-card img:hover {
+.gallery-thumb:hover {
   transform: scale(1.02);
 }
 
-.gallery-card p {
-  margin: 0;
+.gallery-caption {
   padding: 12px 14px;
-  font-size: 0.95rem;
-  color: #444;
   text-align: center;
+  font-size: 0.95rem;
   font-weight: 500;
+  color: #444;
 }
 
-/* 大图弹窗 */
-.lightbox {
+/* Lightbox */
+.gallery-lightbox {
   display: none;
   position: fixed;
-  z-index: 9999;
   inset: 0;
+  z-index: 9999;
   background: rgba(0, 0, 0, 0.82);
   padding: 40px 24px;
 }
 
-.lightbox.show {
+.gallery-lightbox.show {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
 }
 
-.lightbox-img {
+.gallery-lightbox-img {
   max-width: 92vw;
   max-height: 82vh;
   object-fit: contain;
+  background: white;
   border-radius: 12px;
   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.35);
-  background: white;
 }
 
-.lightbox-caption {
+.gallery-lightbox-caption {
   margin-top: 14px;
   color: white;
-  font-size: 1rem;
   text-align: center;
+  font-size: 1rem;
 }
 
-.lightbox-close {
+.gallery-lightbox-close {
   position: absolute;
   top: 18px;
   right: 28px;
@@ -176,6 +175,30 @@ h1, h2, h3 {
   cursor: pointer;
   user-select: none;
 }
+
+/* responsive */
+@media (max-width: 1100px) {
+  .gallery-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+  }
+}
+
+@media (max-width: 800px) {
+  .gallery-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  }
+
+  .gallery-thumb {
+    height: 220px;
+  }
+}
+
+@media (max-width: 520px) {
+  .gallery-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
+
 
 /* 平板 */
 @media (max-width: 1100px) {

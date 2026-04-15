@@ -24,7 +24,7 @@ make_caption <- function(x) {
 
 for (year in year_dirs) {
   cat(sprintf("\n\n## %s\n\n", year))
-  cat('<div class="year-gallery">\n')
+  cat('<div class="gallery-grid">\n')
 
   imgs <- list.files(
     file.path(gallery_root, year),
@@ -39,7 +39,10 @@ for (year in year_dirs) {
     caption <- make_caption(img)
 
     cat(sprintf(
-'<div class="gallery-card"><img src="%s" alt="%s" class="gallery-thumb" data-full="%s" data-caption="%s"><p>%s</p></div>\n',
+'<div class="gallery-item">
+  <img src="%s" alt="%s" class="gallery-thumb" data-full="%s" data-caption="%s">
+  <div class="gallery-caption">%s</div>
+</div>\n',
 img_path, caption, img_path, caption, caption
     ))
   }
