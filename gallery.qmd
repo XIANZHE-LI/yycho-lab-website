@@ -39,10 +39,7 @@ for (year in year_dirs) {
     caption <- make_caption(img)
 
     cat(sprintf(
-'<div class="gallery-item">
-  <img src="%s" alt="%s" class="gallery-thumb" data-full="%s" data-caption="%s">
-  <div class="gallery-caption">%s</div>
-</div>\n',
+'<div class="gallery-item"><img src="%s" alt="%s" class="gallery-thumb" data-full="%s" data-caption="%s"><div class="gallery-caption">%s</div></div>\n',
 img_path, caption, img_path, caption, caption
     ))
   }
