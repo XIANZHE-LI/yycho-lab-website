@@ -1,61 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to Yong-Yeon Cho‘s Lab",
-    "section": "",
-    "text": "We study the molecular mechanisms that regulate cellular architecture, membrane-associated signaling, and stress-responsive transcriptional programs.\n\n\nOur laboratory focuses on the molecular basis of membrane biology, cellular stress responses, and disease-related mechanisms. By integrating cell biology, molecular biology, biochemical analysis, and computational approaches, we aim to uncover fundamental principles in health and disease.\n\n\n\n\nNuclear membrane biology\nStress-responsive transcription factors\nRegulated intramembrane proteolysis\nStructural and computational biology\n\n\n\n\n\nOur lab website is under construction."
-  },
-  {
-    "objectID": "index.html#about-the-lab",
-    "href": "index.html#about-the-lab",
-    "title": "Welcome to Yong-Yeon Cho‘s Lab",
-    "section": "",
-    "text": "Our laboratory focuses on the molecular basis of membrane biology, cellular stress responses, and disease-related mechanisms. By integrating cell biology, molecular biology, biochemical analysis, and computational approaches, we aim to uncover fundamental principles in health and disease."
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Welcome to Yong-Yeon Cho‘s Lab",
-    "section": "",
-    "text": "Nuclear membrane biology\nStress-responsive transcription factors\nRegulated intramembrane proteolysis\nStructural and computational biology"
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Welcome to Yong-Yeon Cho‘s Lab",
-    "section": "",
-    "text": "Our lab website is under construction."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "YYCho Lab\nDepartment of XXXXX\nUniversity Name\nCity, Country\n\n\n\nyourlab@university.edu\n\n\n\nWe welcome motivated students and collaborators interested in cell biology, biochemistry, and computational biology."
-  },
-  {
-    "objectID": "contact.html#address",
-    "href": "contact.html#address",
-    "title": "Contact",
-    "section": "",
-    "text": "YYCho Lab\nDepartment of XXXXX\nUniversity Name\nCity, Country"
-  },
-  {
-    "objectID": "contact.html#email",
-    "href": "contact.html#email",
-    "title": "Contact",
-    "section": "",
-    "text": "yourlab@university.edu"
-  },
-  {
-    "objectID": "contact.html#opportunities",
-    "href": "contact.html#opportunities",
-    "title": "Contact",
-    "section": "",
-    "text": "We welcome motivated students and collaborators interested in cell biology, biochemistry, and computational biology."
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -98,18 +42,67 @@
     "text": "Professor, College of Pharmacy, The Catholic University of Korea\n\n\n\n(2015–2020) College of Pharmacy, The Catholic University of Korea, Associate Professor\n(2020–present) College of Pharmacy, The Catholic University of Korea, Professor\n(2016–2018) Integrative Research Institute Pharmaceutical Sciences, The Catholic University of Korea, Director\n(2022–present) College of Pharmacy, The Catholic University of Korea, Dean\n\n\n\n\n\nProtein Stability Regulation by Ubiquitination\nRegulated Cell Death (RCD)\nCancer Development and Carcinogenesis\nChemoresistance\nKaryoptosis\n\nEmail: yongyeon@catholic.ac.kr"
   },
   {
-    "objectID": "members.html#principal-investigator",
-    "href": "members.html#principal-investigator",
+    "objectID": "members.html#prof.-yong-yeon-cho",
+    "href": "members.html#prof.-yong-yeon-cho",
     "title": "Members",
     "section": "",
-    "text": "Prof. YY Cho\nDepartment of XXXXX\nEmail: your_email@university.edu\nProf. Cho’s research focuses on membrane biology, transcriptional regulation, and disease mechanisms."
+    "text": "Professor, College of Pharmacy, The Catholic University of Korea\n\n\n\n(2015–2020) College of Pharmacy, The Catholic University of Korea, Associate Professor\n(2020–present) College of Pharmacy, The Catholic University of Korea, Professor\n(2016–2018) Integrative Research Institute Pharmaceutical Sciences, The Catholic University of Korea, Director\n(2022–present) College of Pharmacy, The Catholic University of Korea, Dean\n\n\n\n\n\nProtein Stability Regulation by Ubiquitination\nRegulated Cell Death (RCD)\nCancer Development and Carcinogenesis\nChemoresistance\nKaryoptosis\n\nEmail: yongyeon@catholic.ac.kr"
   },
   {
-    "objectID": "members.html#graduate-students",
-    "href": "members.html#graduate-students",
-    "title": "Members",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "Student A\nStudent B\nStudent C"
+    "text": "College of Pharmacy, The Catholic University of Korea 43, Jibong-ro, Wonmi-gu, Buchon-si, Gyeonggi-do 14662, Republic of Korea\n\n\n\nyongyeon@catholic.ac.kr\n\n\n\nWe welcome motivated students and collaborators interested in biochemistry, Molecular Biology, cell biology, bioinformatics, structural biology and computational biology."
+  },
+  {
+    "objectID": "contact.html#address",
+    "href": "contact.html#address",
+    "title": "Contact",
+    "section": "",
+    "text": "College of Pharmacy, The Catholic University of Korea 43, Jibong-ro, Wonmi-gu, Buchon-si, Gyeonggi-do 14662, Republic of Korea"
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
+    "section": "",
+    "text": "yongyeon@catholic.ac.kr"
+  },
+  {
+    "objectID": "contact.html#opportunities",
+    "href": "contact.html#opportunities",
+    "title": "Contact",
+    "section": "",
+    "text": "We welcome motivated students and collaborators interested in biochemistry, Molecular Biology, cell biology, bioinformatics, structural biology and computational biology."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to Yong-Yeon Cho‘s Lab",
+    "section": "",
+    "text": "We study the molecular mechanisms that regulate cellular architecture, membrane-associated signaling, and stress-responsive transcriptional programs.\n\n\nOur laboratory focuses on the molecular basis of membrane biology, cellular stress responses, and disease-related mechanisms. By integrating cell biology, molecular biology, biochemical analysis, and computational approaches, we aim to uncover fundamental principles in health and disease.\n\n\n\n\nNuclear membrane biology\nStress-responsive transcription factors\nRegulated intramembrane proteolysis\nStructural and computational biology\n\n\n\n\n\nOur lab website is under construction."
+  },
+  {
+    "objectID": "index.html#about-the-lab",
+    "href": "index.html#about-the-lab",
+    "title": "Welcome to Yong-Yeon Cho‘s Lab",
+    "section": "",
+    "text": "Our laboratory focuses on the molecular basis of membrane biology, cellular stress responses, and disease-related mechanisms. By integrating cell biology, molecular biology, biochemical analysis, and computational approaches, we aim to uncover fundamental principles in health and disease."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Welcome to Yong-Yeon Cho‘s Lab",
+    "section": "",
+    "text": "Nuclear membrane biology\nStress-responsive transcription factors\nRegulated intramembrane proteolysis\nStructural and computational biology"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Welcome to Yong-Yeon Cho‘s Lab",
+    "section": "",
+    "text": "Our lab website is under construction."
   },
   {
     "objectID": "publications.html",
@@ -117,19 +110,5 @@
     "title": "Publications",
     "section": "",
     "text": "Publications\n\nJeung, D., Li, X., & Cho, Y.-Y. (2025). New Roles of bZIP-Containing Membrane-Bound Transcription Factors in Chromatin Tethering and Karyoptosis. International Journal of Molecular Sciences, 26(22). https://doi.org/10.3390/ijms262210896\nLee, H. S., Cho, S.-J., Kang, H. C., Lee, J. Y., Kwon, Y. J., & Cho, Y.-Y. (2025). RSK2 and its binding partners: An emerging signaling node in cancers. Archives of Pharmacal Research, 48(5), 365–383. https://doi.org/10.1007/s12272-025-01543-3\nChen, W., Byun, J., Kang, H. C., Lee, H. S., Lee, J. Y., Kwon, Y. J., & Cho, Y.-Y. (2024). Karyoptosis as a novel type of UVB-induced regulated cell death. Free Radical Research, 58(11), 796–810. https://doi.org/10.1080/10715762.2024.2433986\nChen, W., Lee, G.-E., Jeung, D., Byun, J., Wu, J., Li, X., Lee, J. Y., Kang, H. C., Lee, H. S., Kim, K. D., Nam, S.-B., Lee, C.-J., Kwon, Y. J., & Cho, Y.-Y. (2024). RSK2-mediated cGAS phosphorylation induces cGAS chromatin-incorporation-mediated cell transformation and cancer cell colony growth. Cell Death Discovery, 10(1), 442. https://doi.org/10.1038/s41420-024-02208-8\nLee, G.-E., Bang, G., Byun, J., Chen, W., Jeung, D., Cho, H., Lee, J. Y., Kang, H. C., Lee, H. S., Kim, J. Y., Kim, K. D., Wu, J., Nam, S.-B., Kwon, Y. J., Lee, C.-J., & Cho, Y.-Y. (2024). SPOP-mediated RIPK3 destabilization desensitizes LPS/sMAC/zVAD-induced necroptotic cell death. Cellular and Molecular Life Sciences, 81(1), 451. https://doi.org/10.1007/s00018-024-05487-7\nLee, G.-E., Bang, G., Byun, J., Lee, C.-J., Chen, W., Jeung, D., An, H.-J., Kang, H. C., Lee, J. Y., Lee, H. S., Hong, Y.-S., Kim, D. J., Keniry, M., Kim, J. Y., Choi, J.-S., Fanto, M., Cho, S.-J., Kim, K.-D., & Cho, Y.-Y. (2024). Dysregulated CREB3 cleavage at the nuclear membrane induces karyoptosis-mediated cell death. Experimental & Molecular Medicine, 56(3), 686–699. https://doi.org/10.1038/s12276-024-01195-1\nChen, W., Lee, G.-E., Jeung, D., Byun, J., Juan, W., & Cho, Y.-Y. (2023). Cyclic GMP-AMP Synthase in Cancer Prevention. Journal of Cancer Prevention, 28(4), 143–196. https://doi.org/10.15430/JCP.2023.28.4.143\nChoi, J.-S., & Cho, Y.-Y. (2023). Novel wiring of the AKT-RSK2 signaling pathway plays an essential role in cancer cell proliferation via a G1/S cell cycle transition. Biochemical and Biophysical Research Communications, 642, 66–74. https://doi.org/10.1016/j.bbrc.2022.12.048\nLee, G.-E., Byun, J., Lee, C.-J., & Cho, Y.-Y. (2023). Molecular Mechanisms for the Regulation of Nuclear Membrane Integrity. International Journal of Molecular Sciences, 24(20). https://doi.org/10.3390/ijms242015497\nLee, G.-E., Jeung, D., Chen, W., Byun, J., Lee, J. Y., Kang, H. C., Lee, H. S., Kim, D. J., Choi, J.-S., Lee, C.-J., An, H.-J., & Cho, Y.-Y. (2023). MEKs/ERKs-mediated FBXO1/E2Fs interaction interference modulates G1/S cell cycle transition and cancer cell proliferation. Archives of Pharmacal Research, 46(1), 44–58. https://doi.org/10.1007/s12272-023-01426-5\nAn, H.-J., Lee, C.-J., Lee, G.-E., Choi, Y., Jeung, D., Chen, W., Lee, H. S., Kang, H. C., Lee, J. Y., Kim, D. J., Choi, J.-S., Cho, E. S., Choi, J.-S., & Cho, Y.-Y. (2022). FBXW7-mediated ERK3 degradation regulates the proliferation of lung cancer cells. Experimental & Molecular Medicine, 54(1), 35–46. https://doi.org/10.1038/s12276-021-00721-9\nChen, W., An, H.-J., Lee, G.-E., & Cho, Y.-Y. (2022). Abstract 5695: Roles of cGAS in DNA damage response. Cancer Research, 82(12_Supplement), 5695. https://doi.org/10.1158/1538-7445.AM2022-5695\nLee, G.-E., Lee, C.-J., An, H.-J., Chen, W., Jeung, D., Choi, Y., & Cho, Y.-Y. (2022). Abstract 5677: βTrCP1 is a substrate of extracellular signal-regulated kinase 2. Cancer Research, 82(12_Supplement), 5677. https://doi.org/10.1158/1538-7445.AM2022-5677\nLee, C.-J., Lee, G.-E., An, H.-J., Cho, E. S., Chen, W., Lee, J. Y., Kang, H. C., Lee, H. S., & Cho, Y.-Y. (2021). F-box Protein βTrCP1 Is a Substrate of Extracellular Signal-regulated Kinase 2. Journal of Cancer Prevention, 26(3), 174–182. https://doi.org/10.15430/JCP.2021.26.3.174\nLee, G.-E., Lee, C.-J., An, H.-J., Kang, H. C., Lee, H. S., Lee, J. Y., Oh, S.-R., Cho, S.-J., Kim, D. J., & Cho, Y.-Y. (2021). Fargesin Inhibits EGF-Induced Cell Transformation and Colon Cancer Cell Growth by Suppression of CDK2/Cyclin E Signaling Pathway. International Journal of Molecular Sciences, 22(4). https://doi.org/10.3390/ijms22042073\nPark, J., Lee, G.-E., An, H.-J., Lee, C.-J., Cho, E. S., Kang, H. C., Lee, J. Y., Lee, H. S., Choi, J.-S., Kim, D. J., Choi, J.-S., & Cho, Y.-Y. (2021). Kaempferol sensitizes cell proliferation inhibition in oxaliplatin-resistant colon cancer cells. Archives of Pharmacal Research, 44(12), 1091–1108. https://doi.org/10.1007/s12272-021-01358-y\nLee, C.-J., An, H.-J., Cho, E. S., Kang, H. C., Lee, J. Y., Lee, H. S., & Cho, Y.-Y. (2020). Stat2 stability regulation: An intersection between immunity and carcinogenesis. Experimental & Molecular Medicine, 52(9), 1526–1536. https://doi.org/10.1038/s12276-020-00506-6\nLee, C.-J., An, H.-J., Kim, S.-M., Yoo, S.-M., Park, J., Lee, G.-E., Kim, W.-Y., Kim, D. J., Kang, H. C., Lee, J. Y., Lee, H. S., Cho, S.-J., & Cho, Y.-Y. (2020). FBXW7-mediated stability regulation of signal transducer and activator of transcription 2 in melanoma formation. Proceedings of the National Academy of Sciences, 117(1), 584–594. https://doi.org/10.1073/pnas.1909879116"
-  },
-  {
-    "objectID": "publications.html#selected-publications",
-    "href": "publications.html#selected-publications",
-    "title": "Publications",
-    "section": "",
-    "text": "Lee, H. S. et al. RSK2 and its binding partners: an emerging signaling node in cancers. Arch. Pharm. Res. 48, 365–383 (2025).\nJeung, D., Li, X. & Cho, Y.-Y. New Roles of bZIP-Containing Membrane-Bound Transcription Factors in Chromatin Tethering and Karyoptosis. International Journal of Molecular Sciences 26, (2025).\nLee, G.-E. et al. SPOP-mediated RIPK3 destabilization desensitizes LPS/sMAC/zVAD-induced necroptotic cell death. Cell. Mol. Life Sci. 81, 451 (2024).\nLee, G.-E. et al. Dysregulated CREB3 cleavage at the nuclear membrane induces karyoptosis-mediated cell death. Exp Mol Med 56, 686–699 (2024).\nChen, W. et al. RSK2-mediated cGAS phosphorylation induces cGAS chromatin-incorporation-mediated cell transformation and cancer cell colony growth. Cell Death Discov. 10, 442 (2024).\nChen, W. et al. Karyoptosis as a novel type of UVB-induced regulated cell death. Free Radical Research 58, 796–810 (2024).\nLee, G.-E. et al. MEKs/ERKs-mediated FBXO1/E2Fs interaction interference modulates G1/S cell cycle transition and cancer cell proliferation. Arch. Pharm. Res. 46, 44–58 (2023).\nLee, G.-E., Byun, J., Lee, C.-J. & Cho, Y.-Y. Molecular Mechanisms for the Regulation of Nuclear Membrane Integrity. International Journal of Molecular Sciences 24, (2023).\nChoi, J.-S. & Cho, Y.-Y. Novel wiring of the AKT-RSK2 signaling pathway plays an essential role in cancer cell proliferation via a G1/S cell cycle transition. Biochemical and Biophysical Research Communications 642, 66–74 (2023).\nChen, W. et al. Cyclic GMP-AMP Synthase in Cancer Prevention. J Cancer Prev 28, 143–196 (2023).\nLee, G.-E. et al. Abstract 5677: βTrCP1 is a substrate of extracellular signal-regulated kinase 2. Cancer Res 82, 5677 (2022).v\nChen, W., An, H.-J., Lee, G.-E. & Cho, Y.-Y. Abstract 5695: Roles of cGAS in DNA damage response. Cancer Res 82, 5695 (2022)."
-  },
-  {
-    "objectID": "members.html#prof.-yong-yeon-cho",
-    "href": "members.html#prof.-yong-yeon-cho",
-    "title": "Members",
-    "section": "",
-    "text": "Professor, College of Pharmacy, The Catholic University of Korea\n\n\n\n(2015–2020) College of Pharmacy, The Catholic University of Korea, Associate Professor\n(2020–present) College of Pharmacy, The Catholic University of Korea, Professor\n(2016–2018) Integrative Research Institute Pharmaceutical Sciences, The Catholic University of Korea, Director\n(2022–present) College of Pharmacy, The Catholic University of Korea, Dean\n\n\n\n\n\nProtein Stability Regulation by Ubiquitination\nRegulated Cell Death (RCD)\nCancer Development and Carcinogenesis\nChemoresistance\nKaryoptosis\n\nEmail: yongyeon@catholic.ac.kr"
   }
 ]
