@@ -12,6 +12,8 @@ website:
         text: Research
       - href: members.qmd
         text: Members
+      - href: gallery.qmd
+        text: Gallery
       - href: publications.qmd
         text: Publications
       - href: contact.qmd
@@ -23,4 +25,3 @@ format:
     css: styles.css
     toc: false
     page-layout: full
-    

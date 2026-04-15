@@ -2,7 +2,7 @@
 title: ""
 ---
 
-# Publications
+library(easyPubMed)# Publications
 
 1.  Jeung, D., Li, X., & Cho, Y.-Y. (2025). New Roles of bZIP-Containing Membrane-Bound Transcription Factors in Chromatin Tethering and Karyoptosis. *International Journal of Molecular Sciences*, *26*(22). <https://doi.org/10.3390/ijms262210896>
 
