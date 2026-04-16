@@ -100,30 +100,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to Yong-Yeon Cho’s Lab",
+    "title": "\nWelcome to Yong-Yeon Cho’s Lab\n",
     "section": "",
-    "text": "We study the molecular mechanisms that regulate cellular architecture, membrane-associated signaling, and stress-responsive transcriptional programs.\n\n\nOur laboratory has long been engaged in research on cancer signal transduction, protein stability regulation, and regulated cell death. In recent years, our work has primarily focused on the regulation of molecular stability associated with tumorigenesis and drug resistance. We have systematically elucidated the roles of signaling networks involving RSK2, FBXW7, STAT2, ERK3, and ELK3 in cancer cell proliferation and transformation. Concurrently, we have established and advanced a novel research framework for karyoptosis—a form of regulated cell death—centered on nuclear envelope homeostasis and aberrant splicing of CREB3. Furthermore, we continue to expand our investigations into innate immune and inflammatory pathways such as NLRP3, cGAS/STING, and necroptosis, as well as natural product pharmacology, drug metabolism, and toxicological translation studies. This has enabled us to develop a distinctive research profile integrating fundamental mechanisms with pharmaceutical applications.\n\n\n\n\nNuclear membrane biology\nStress-responsive transcription factors\nRegulated intramembrane proteolysis\nStructural and computational biology\nKaryoptosis\nProtein Stability\n\n\n\n\n\nOur lab website is under construction."
+    "text": "We study the molecular mechanisms that regulate cellular architecture, membrane-associated signaling, and stress-responsive transcriptional programs."
   },
   {
     "objectID": "index.html#about-the-lab",
     "href": "index.html#about-the-lab",
-    "title": "Welcome to Yong-Yeon Cho’s Lab",
-    "section": "",
-    "text": "Our laboratory has long been engaged in research on cancer signal transduction, protein stability regulation, and regulated cell death. In recent years, our work has primarily focused on the regulation of molecular stability associated with tumorigenesis and drug resistance. We have systematically elucidated the roles of signaling networks involving RSK2, FBXW7, STAT2, ERK3, and ELK3 in cancer cell proliferation and transformation. Concurrently, we have established and advanced a novel research framework for karyoptosis—a form of regulated cell death—centered on nuclear envelope homeostasis and aberrant splicing of CREB3. Furthermore, we continue to expand our investigations into innate immune and inflammatory pathways such as NLRP3, cGAS/STING, and necroptosis, as well as natural product pharmacology, drug metabolism, and toxicological translation studies. This has enabled us to develop a distinctive research profile integrating fundamental mechanisms with pharmaceutical applications."
+    "title": "\nWelcome to Yong-Yeon Cho’s Lab\n",
+    "section": "About the Lab",
+    "text": "About the Lab\nOur laboratory has long been engaged in research on cancer signal transduction, protein stability regulation, and regulated cell death. In recent years, our work has primarily focused on molecular stability control associated with tumorigenesis and therapeutic resistance. We have systematically elucidated the roles of signaling networks involving RSK2, FBXW7, STAT2, ERK3, and ELK3 in cancer cell proliferation and transformation.\nConcurrently, we have established and advanced a novel research framework for karyoptosis, a form of regulated cell death, centered on nuclear envelope homeostasis and aberrant cleavage of CREB3. Furthermore, we continue to expand our investigations into innate immune and inflammatory pathways, including NLRP3, cGAS/STING, and necroptosis, as well as natural product pharmacology, drug metabolism, and translational toxicology. Together, these efforts define a distinctive research profile that integrates fundamental molecular mechanisms with pharmaceutical applications."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
-    "title": "Welcome to Yong-Yeon Cho’s Lab",
-    "section": "",
-    "text": "Nuclear membrane biology\nStress-responsive transcription factors\nRegulated intramembrane proteolysis\nStructural and computational biology\nKaryoptosis\nProtein Stability"
+    "title": "\nWelcome to Yong-Yeon Cho’s Lab\n",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nNuclear membrane biology Stress-responsive transcription factors Regulated intramembrane proteolysis Structural and computational biology Karyoptosis Protein stability"
   },
   {
     "objectID": "index.html#news",
     "href": "index.html#news",
-    "title": "Welcome to Yong-Yeon Cho’s Lab",
-    "section": "",
-    "text": "Our lab website is under construction."
+    "title": "\nWelcome to Yong-Yeon Cho’s Lab\n",
+    "section": "News",
+    "text": "News\n\nOur lab website is currently under construction.\nUpdates on new projects, publications, and lab activities will be posted here soon."
   },
   {
     "objectID": "publications.html",

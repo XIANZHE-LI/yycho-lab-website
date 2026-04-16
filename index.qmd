@@ -2,23 +2,125 @@
 title: ""
 ---
 
-# Welcome to **Yong-Yeon Cho’s** Lab
+<style>
+/* ===== Home page styling ===== */
+.hero {
+  text-align: center;
+  padding: 4.5rem 1rem 3rem 1rem;
+  margin-bottom: 1.5rem;
+}
 
-We study the molecular mechanisms that regulate cellular architecture, membrane-associated signaling, and stress-responsive transcriptional programs.
+.hero h1 {
+  font-size: 2.8rem;
+  font-weight: 700;
+  margin-bottom: 0.8rem;
+  line-height: 1.15;
+}
 
+.hero .subtitle {
+  font-size: 1.15rem;
+  color: #5f6b7a;
+  max-width: 850px;
+  margin: 0 auto;
+  line-height: 1.8;
+}
+
+.section-block {
+  max-width: 1050px;
+  margin: 0 auto 2.2rem auto;
+  padding: 2rem 2rem;
+  background: #ffffff;
+  border: 1px solid #e9edf2;
+  border-radius: 18px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.04);
+}
+
+.section-block h2 {
+  font-size: 1.45rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #edf1f5;
+  padding-bottom: 0.6rem;
+}
+
+.section-block p {
+  line-height: 1.9;
+  color: #2f3a45;
+  margin-bottom: 0;
+}
+
+.interests {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 1rem;
+}
+
+.interest-tag {
+  display: inline-block;
+  padding: 0.65rem 1rem;
+  border-radius: 999px;
+  background: #f4f7fb;
+  border: 1px solid #dde6f0;
+  font-size: 0.98rem;
+  color: #334155;
+}
+
+.news-box {
+  padding: 1rem 1.2rem;
+  background: #f8fafc;
+  border-left: 4px solid #94a3b8;
+  border-radius: 10px;
+  line-height: 1.8;
+  color: #334155;
+}
+
+.home-note {
+  text-align: center;
+  color: #7a8594;
+  font-size: 0.95rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+</style>
+
+<div class="hero">
+  <h1>Welcome to Yong-Yeon Cho’s Lab</h1>
+  <p class="subtitle">
+    We study the molecular mechanisms that regulate cellular architecture,
+    membrane-associated signaling, and stress-responsive transcriptional programs.
+  </p>
+</div>
+
+<div class="section-block">
 ## About the Lab
 
-Our laboratory has long been engaged in research on cancer signal transduction, protein stability regulation, and regulated cell death. In recent years, our work has primarily focused on the regulation of molecular stability associated with tumorigenesis and drug resistance. We have systematically elucidated the roles of signaling networks involving RSK2, FBXW7, STAT2, ERK3, and ELK3 in cancer cell proliferation and transformation. Concurrently, we have established and advanced a novel research framework for **karyoptosis**—a form of regulated cell death—centered on nuclear envelope homeostasis and aberrant splicing of CREB3. Furthermore, we continue to expand our investigations into innate immune and inflammatory pathways such as NLRP3, cGAS/STING, and necroptosis, as well as natural product pharmacology, drug metabolism, and toxicological translation studies. This has enabled us to develop a distinctive research profile integrating fundamental mechanisms with pharmaceutical applications.
+Our laboratory has long been engaged in research on cancer signal transduction, protein stability regulation, and regulated cell death. In recent years, our work has primarily focused on molecular stability control associated with tumorigenesis and therapeutic resistance. We have systematically elucidated the roles of signaling networks involving RSK2, FBXW7, STAT2, ERK3, and ELK3 in cancer cell proliferation and transformation.
 
+Concurrently, we have established and advanced a novel research framework for **karyoptosis**, a form of regulated cell death, centered on nuclear envelope homeostasis and aberrant cleavage of CREB3. Furthermore, we continue to expand our investigations into innate immune and inflammatory pathways, including NLRP3, cGAS/STING, and necroptosis, as well as natural product pharmacology, drug metabolism, and translational toxicology. Together, these efforts define a distinctive research profile that integrates fundamental molecular mechanisms with pharmaceutical applications.
+</div>
+
+<div class="section-block">
 ## Research Interests
 
--   Nuclear membrane biology
--   Stress-responsive transcription factors
--   Regulated intramembrane proteolysis
--   Structural and computational biology
--   Karyoptosis
--   Protein Stability
+<div class="interests">
+  <span class="interest-tag">Nuclear membrane biology</span>
+  <span class="interest-tag">Stress-responsive transcription factors</span>
+  <span class="interest-tag">Regulated intramembrane proteolysis</span>
+  <span class="interest-tag">Structural and computational biology</span>
+  <span class="interest-tag">Karyoptosis</span>
+  <span class="interest-tag">Protein stability</span>
+</div>
+</div>
 
+<div class="section-block">
 ## News
 
--   Our lab website is under construction. <!-- -   New projects and publications will be updated here. -->
+<div class="news-box">
+Our lab website is currently under construction.  
+Updates on new projects, publications, and lab activities will be posted here soon.
+</div>
+</div>
+
+<div class="home-note">
+Exploring molecular mechanisms from fundamental biology to translational application.
+</div>
