@@ -8,7 +8,7 @@ We study the molecular mechanisms that regulate cellular architecture, membrane-
 
 ## About the Lab
 
-Our laboratory focuses on the molecular basis of membrane biology, cellular stress responses, and disease-related mechanisms. By integrating cell biology, molecular biology, biochemical analysis, and computational approaches, we aim to uncover fundamental principles in health and disease.
+Our laboratory has long been engaged in research on cancer signal transduction, protein stability regulation, and regulated cell death. In recent years, our work has primarily focused on the regulation of molecular stability associated with tumorigenesis and drug resistance. We have systematically elucidated the roles of signaling networks involving RSK2, FBXW7, STAT2, ERK3, and ELK3 in cancer cell proliferation and transformation. Concurrently, we have established and advanced a novel research framework for **karyoptosis**—a form of regulated cell death—centered on nuclear envelope homeostasis and aberrant splicing of CREB3. Furthermore, we continue to expand our investigations into innate immune and inflammatory pathways such as NLRP3, cGAS/STING, and necroptosis, as well as natural product pharmacology, drug metabolism, and toxicological translation studies. This has enabled us to develop a distinctive research profile integrating fundamental mechanisms with pharmaceutical applications.
 
 ## Research Interests
 
@@ -16,6 +16,8 @@ Our laboratory focuses on the molecular basis of membrane biology, cellular stre
 -   Stress-responsive transcription factors
 -   Regulated intramembrane proteolysis
 -   Structural and computational biology
+-   Karyoptosis
+-   Protein Stability
 
 ## News
 

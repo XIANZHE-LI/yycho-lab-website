@@ -4,35 +4,35 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "We investigate how membrane-associated proteins regulate nuclear architecture, cellular stress responses, and transcriptional remodeling.\n\n\n\nWe study regulated intramembrane proteolysis and its role in activating membrane-bound transcription factors.\n\n\n\nWe combine structural modeling and molecular dynamics simulations to understand conformational changes and protein function.\n\n\n\nWe aim to connect molecular mechanisms with disease phenotypes and potential therapeutic strategies."
+    "text": "Research in our laboratory continues to focus on key signaling nodes such as RSK2, ERK, ELK3, FBXW7, STAT2, ERK3, and E2Fs. The central question is how kinase networks, protein–protein interactions, ubiquitination, and protein stability regulation contribute to cancer cell proliferation, transformation, and drug resistance. Representative studies include RSK2–ELK3 promoting breast cancer growth; FBXW7-mediated regulation of STAT2 influencing melanoma development; FBXW7-mediated control of ERK3 suppressing lung cancer cell proliferation; MEKs/ERKs–FBXO1/E2Fs regulating the G1/S transition; the AKT–RSK2 axis promoting cancer cell proliferation; and a 2025 review on the roles of RSK2 and its interacting partners in cancer.\n\n \n\n\n\n\nThis has become one of the most prominent research directions of our group in recent years. Karyoptosis was first identified by our laboratory as a novel form of regulated cell death. More recently, this field has advanced toward elucidating the molecular mechanisms linking nuclear envelope integrity and aberrant CREB3 cleavage. Representative publications include a 2023 review on the regulation of nuclear envelope integrity, the 2024 paper “Dysregulated CREB3 cleavage at the nuclear membrane induces karyoptosis-mediated cell death,” and “Karyoptosis as a novel type of UVB-induced regulated cell death.” In 2025, this research was further extended to reveal new roles of membrane-bound bZIP transcription factors in chromatin anchoring and karyoptosis.\n\n  \n\n\n\n\nOur team has long focused on the intersection of inflammasomes and innate immunity. From 2018 to 2021, we conducted a series of studies on NLRP3, covering acute gout, suppression of metastasis within the tumor microenvironment, and modulation of inflammasomes through small molecules or post-translational modifications. Subsequently, our research expanded into cGAS/STING and necroptosis. A comprehensive review on cGAS/STING was published in 2023, and in 2024 we reported that RSK2 mediates cGAS phosphorylation to promote cellular transformation. In addition, our work on SPOP–RIPK3 elucidated regulatory mechanisms underlying necroptotic cell death. Thus, our focus extends beyond inflammation itself to the integration of innate immune signaling with tumorigenesis and cell fate determination.\n\n\n\n\n\n\nWe also pursue pharmaceutical translational research, primarily encompassing three major areas. First, we investigate the anticancer and anti-inflammatory mechanisms of natural products and bioactive compounds, such as kaempferol and fargesin. Second, we study metabolic profiling of drugs and natural products in hepatocytes, cross-species metabolic comparisons, and drug–drug interactions, including work on fargesin, aschantin, and eudesmin. Third, we explore toxicokinetics and delivery systems, such as in vivo distribution studies of phalloidin and delivery-related strategies involving DNA nanostructures and exosomes."
   },
   {
-    "objectID": "research.html#research-area-1",
-    "href": "research.html#research-area-1",
+    "objectID": "research.html#cancer-signal-transduction-and-regulation-of-protein-stability",
+    "href": "research.html#cancer-signal-transduction-and-regulation-of-protein-stability",
     "title": "Research",
     "section": "",
-    "text": "We investigate how membrane-associated proteins regulate nuclear architecture, cellular stress responses, and transcriptional remodeling."
+    "text": "Research in our laboratory continues to focus on key signaling nodes such as RSK2, ERK, ELK3, FBXW7, STAT2, ERK3, and E2Fs. The central question is how kinase networks, protein–protein interactions, ubiquitination, and protein stability regulation contribute to cancer cell proliferation, transformation, and drug resistance. Representative studies include RSK2–ELK3 promoting breast cancer growth; FBXW7-mediated regulation of STAT2 influencing melanoma development; FBXW7-mediated control of ERK3 suppressing lung cancer cell proliferation; MEKs/ERKs–FBXO1/E2Fs regulating the G1/S transition; the AKT–RSK2 axis promoting cancer cell proliferation; and a 2025 review on the roles of RSK2 and its interacting partners in cancer."
   },
   {
-    "objectID": "research.html#research-area-2",
-    "href": "research.html#research-area-2",
+    "objectID": "research.html#nuclear-envelope-homeostasis-creb3-and-a-novel-form-of-regulated-cell-death-termed-karyoptosis",
+    "href": "research.html#nuclear-envelope-homeostasis-creb3-and-a-novel-form-of-regulated-cell-death-termed-karyoptosis",
     "title": "Research",
     "section": "",
-    "text": "We study regulated intramembrane proteolysis and its role in activating membrane-bound transcription factors."
+    "text": "This has become one of the most prominent research directions of our group in recent years. Karyoptosis was first identified by our laboratory as a novel form of regulated cell death. More recently, this field has advanced toward elucidating the molecular mechanisms linking nuclear envelope integrity and aberrant CREB3 cleavage. Representative publications include a 2023 review on the regulation of nuclear envelope integrity, the 2024 paper “Dysregulated CREB3 cleavage at the nuclear membrane induces karyoptosis-mediated cell death,” and “Karyoptosis as a novel type of UVB-induced regulated cell death.” In 2025, this research was further extended to reveal new roles of membrane-bound bZIP transcription factors in chromatin anchoring and karyoptosis."
   },
   {
-    "objectID": "research.html#research-area-3",
-    "href": "research.html#research-area-3",
+    "objectID": "research.html#innate-immunity-and-inflammatory-signaling-nlrp3-cgassting-and-necroptosis",
+    "href": "research.html#innate-immunity-and-inflammatory-signaling-nlrp3-cgassting-and-necroptosis",
     "title": "Research",
     "section": "",
-    "text": "We combine structural modeling and molecular dynamics simulations to understand conformational changes and protein function."
+    "text": "Our team has long focused on the intersection of inflammasomes and innate immunity. From 2018 to 2021, we conducted a series of studies on NLRP3, covering acute gout, suppression of metastasis within the tumor microenvironment, and modulation of inflammasomes through small molecules or post-translational modifications. Subsequently, our research expanded into cGAS/STING and necroptosis. A comprehensive review on cGAS/STING was published in 2023, and in 2024 we reported that RSK2 mediates cGAS phosphorylation to promote cellular transformation. In addition, our work on SPOP–RIPK3 elucidated regulatory mechanisms underlying necroptotic cell death. Thus, our focus extends beyond inflammation itself to the integration of innate immune signaling with tumorigenesis and cell fate determination."
   },
   {
-    "objectID": "research.html#research-area-4",
-    "href": "research.html#research-area-4",
+    "objectID": "research.html#pharmaceutical-translational-research-natural-products-drug-metabolism-toxicology-and-delivery",
+    "href": "research.html#pharmaceutical-translational-research-natural-products-drug-metabolism-toxicology-and-delivery",
     "title": "Research",
     "section": "",
-    "text": "We aim to connect molecular mechanisms with disease phenotypes and potential therapeutic strategies."
+    "text": "We also pursue pharmaceutical translational research, primarily encompassing three major areas. First, we investigate the anticancer and anti-inflammatory mechanisms of natural products and bioactive compounds, such as kaempferol and fargesin. Second, we study metabolic profiling of drugs and natural products in hepatocytes, cross-species metabolic comparisons, and drug–drug interactions, including work on fargesin, aschantin, and eudesmin. Third, we explore toxicokinetics and delivery systems, such as in vivo distribution studies of phalloidin and delivery-related strategies involving DNA nanostructures and exosomes."
   },
   {
     "objectID": "members.html",
@@ -74,7 +74,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "NP505\nCollege of Pharmacy\nThe Catholic University of Korea\n43, Jibong-ro, Wonmi-gu, Buchon-si, Gyeonggi-do 14662, Republic of Korea\n\n\n\nyongyeon@catholic.ac.kr\n\n\n\nWe welcome motivated students and collaborators interested in biochemistry, Molecular Biology, cell biology, bioinformatics, structural biology and computational biology."
+    "text": "NP505\nCollege of Pharmacy\nThe Catholic University of Korea\n43, Jibong-ro, Wonmi-gu, Buchon-si, Gyeonggi-do 14662, Republic of Korea\n\n\n\nyongyeon@catholic.ac.kr\n\n\n\nWe welcome motivated students and collaborators interested in Biochemistry, Molecular Biology, Cell Biology, Bioinformatics, Structural Biology and Computational Biology."
   },
   {
     "objectID": "contact.html#address",
@@ -95,28 +95,28 @@
     "href": "contact.html#opportunities",
     "title": "Contact",
     "section": "",
-    "text": "We welcome motivated students and collaborators interested in biochemistry, Molecular Biology, cell biology, bioinformatics, structural biology and computational biology."
+    "text": "We welcome motivated students and collaborators interested in Biochemistry, Molecular Biology, Cell Biology, Bioinformatics, Structural Biology and Computational Biology."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome to Yong-Yeon Cho’s Lab",
     "section": "",
-    "text": "We study the molecular mechanisms that regulate cellular architecture, membrane-associated signaling, and stress-responsive transcriptional programs.\n\n\nOur laboratory focuses on the molecular basis of membrane biology, cellular stress responses, and disease-related mechanisms. By integrating cell biology, molecular biology, biochemical analysis, and computational approaches, we aim to uncover fundamental principles in health and disease.\n\n\n\n\nNuclear membrane biology\nStress-responsive transcription factors\nRegulated intramembrane proteolysis\nStructural and computational biology\n\n\n\n\n\nOur lab website is under construction."
+    "text": "We study the molecular mechanisms that regulate cellular architecture, membrane-associated signaling, and stress-responsive transcriptional programs.\n\n\nOur laboratory has long been engaged in research on cancer signal transduction, protein stability regulation, and regulated cell death. In recent years, our work has primarily focused on the regulation of molecular stability associated with tumorigenesis and drug resistance. We have systematically elucidated the roles of signaling networks involving RSK2, FBXW7, STAT2, ERK3, and ELK3 in cancer cell proliferation and transformation. Concurrently, we have established and advanced a novel research framework for karyoptosis—a form of regulated cell death—centered on nuclear envelope homeostasis and aberrant splicing of CREB3. Furthermore, we continue to expand our investigations into innate immune and inflammatory pathways such as NLRP3, cGAS/STING, and necroptosis, as well as natural product pharmacology, drug metabolism, and toxicological translation studies. This has enabled us to develop a distinctive research profile integrating fundamental mechanisms with pharmaceutical applications.\n\n\n\n\nNuclear membrane biology\nStress-responsive transcription factors\nRegulated intramembrane proteolysis\nStructural and computational biology\nKaryoptosis\nProtein Stability\n\n\n\n\n\nOur lab website is under construction."
   },
   {
     "objectID": "index.html#about-the-lab",
     "href": "index.html#about-the-lab",
     "title": "Welcome to Yong-Yeon Cho’s Lab",
     "section": "",
-    "text": "Our laboratory focuses on the molecular basis of membrane biology, cellular stress responses, and disease-related mechanisms. By integrating cell biology, molecular biology, biochemical analysis, and computational approaches, we aim to uncover fundamental principles in health and disease."
+    "text": "Our laboratory has long been engaged in research on cancer signal transduction, protein stability regulation, and regulated cell death. In recent years, our work has primarily focused on the regulation of molecular stability associated with tumorigenesis and drug resistance. We have systematically elucidated the roles of signaling networks involving RSK2, FBXW7, STAT2, ERK3, and ELK3 in cancer cell proliferation and transformation. Concurrently, we have established and advanced a novel research framework for karyoptosis—a form of regulated cell death—centered on nuclear envelope homeostasis and aberrant splicing of CREB3. Furthermore, we continue to expand our investigations into innate immune and inflammatory pathways such as NLRP3, cGAS/STING, and necroptosis, as well as natural product pharmacology, drug metabolism, and toxicological translation studies. This has enabled us to develop a distinctive research profile integrating fundamental mechanisms with pharmaceutical applications."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Welcome to Yong-Yeon Cho’s Lab",
     "section": "",
-    "text": "Nuclear membrane biology\nStress-responsive transcription factors\nRegulated intramembrane proteolysis\nStructural and computational biology"
+    "text": "Nuclear membrane biology\nStress-responsive transcription factors\nRegulated intramembrane proteolysis\nStructural and computational biology\nKaryoptosis\nProtein Stability"
   },
   {
     "objectID": "index.html#news",
