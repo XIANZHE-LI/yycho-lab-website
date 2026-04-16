@@ -5,7 +5,8 @@ title: ""
 ::: pub-hero
 # Publications
 
-Selected publications from Yong-Yeon Cho’s Lab, spanning cancer signaling, nuclear membrane biology, regulated cell death, innate immunity, and translational pharmacology.
+Selected publications from Yong-Yeon Cho’s Lab\
+(Only articles by the corresponding author and co-corresponding authors are displayed; for further details, please refer to the [university's official website](https://pharmacy.catholic.ac.kr/pharmacy/faculty/faculty.do?mode=view&persNo=211110076){target="_blank"} or [Google Scholar](https://scholar.google.com/citations?hl=ko&user=Q4GdE4MAAAAJ&view_op=list_works&sortby=pubdate){target="_blank"}.)
 :::
 
 :::::::::::: pub-year
