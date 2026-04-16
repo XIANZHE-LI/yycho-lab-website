@@ -2,18 +2,34 @@
 title: ""
 ---
 
+::: {.contact-hero}
 # Contact
 
-## Address
-NP505\
-College of Pharmacy\
-The Catholic University of Korea \
-43, Jibong-ro, Wonmi-gu, Buchon-si, Gyeonggi-do 14662, Republic of Korea
+We welcome inquiries regarding research collaboration, student opportunities, and academic exchange.
+:::
 
+::: {.contact-wrap}
+
+::: {.contact-card}
+## Address
+
+NP505  
+College of Pharmacy  
+The Catholic University of Korea  
+43, Jibong-ro, Wonmi-gu, Bucheon-si, Gyeonggi-do 14662  
+Republic of Korea
+:::
+
+::: {.contact-card}
 ## Email
 
-yongyeon\@catholic.ac.kr
+[**yongyeon@catholic.ac.kr**](mailto:yongyeon@catholic.ac.kr)
+:::
 
+::: {.contact-card}
 ## Opportunities
 
-We welcome motivated students and collaborators interested in Biochemistry, Molecular Biology, Cell Biology, Bioinformatics, Structural Biology and Computational Biology.
+We welcome motivated students and collaborators interested in **Biochemistry, Molecular Biology, Cell Biology, Bioinformatics, Structural Biology,** and **Computational Biology**.
+:::
+
+:::
