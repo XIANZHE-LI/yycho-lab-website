@@ -135,57 +135,185 @@ ul.task-list li input[type="checkbox"] {
 
 
 <style>
+.research-hero {
+  text-align: center;
+  padding: 3.8rem 1rem 2.2rem 1rem;
+  margin-bottom: 1.5rem;
+  max-width: 950px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.research-hero h1 {
+  font-size: 2.8rem;
+  font-weight: 700;
+  margin-bottom: 0.8rem;
+  color: #1f2d3d;
+}
+
+.research-hero p,
+.research-hero {
+  color: #607080;
+  font-size: 1.08rem;
+  line-height: 1.9;
+}
+
+.research-wrap {
+  max-width: 1100px;
+  margin: 0 auto 2.5rem auto;
+  display: grid;
+  gap: 24px;
+}
+
+.research-card {
+  background: #ffffff;
+  border: 1px solid #e8edf3;
+  border-radius: 18px;
+  padding: 1.6rem 1.7rem;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.04);
+}
+
+.research-card h2 {
+  font-size: 1.45rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: #1f2d3d;
+  border-bottom: 1px solid #edf1f5;
+  padding-bottom: 0.6rem;
+}
+
+.research-card p {
+  font-size: 1rem;
+  line-height: 1.9;
+  color: #334155;
+  margin-bottom: 0.9rem;
+}
+
 .research-gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 16px;
-  margin: 16px 0 28px 0;
-}
-
-.research-gallery img {
-  width: 100%;
-  border-radius: 10px;
-  display: block;
+  gap: 18px;
+  margin-top: 1.25rem;
 }
 
 .research-gallery.single {
-  grid-template-columns: minmax(260px, 520px);
+  grid-template-columns: minmax(280px, 720px);
+  justify-content: center;
+}
+
+.research-figure {
+  background: #ffffff;
+  border: 1px solid #e8edf3;
+  border-radius: 16px;
+  padding: 12px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+}
+
+.research-figure p {
+  margin: 0;
+}
+
+.research-figure img {
+  width: 100%;
+  height: clamp(220px, 24vw, 300px);
+  object-fit: contain;
+  object-position: center;
+  display: block;
+  border-radius: 12px;
+  background: #f8fafc;
+}
+
+.research-gallery.single .research-figure img {
+  height: clamp(260px, 30vw, 420px);
+}
+
+@media (max-width: 900px) {
+  .research-card {
+    padding: 1.35rem 1.2rem;
+  }
+
+  .research-figure img {
+    height: 240px;
+  }
+
+  .research-gallery.single .research-figure img {
+    height: 280px;
+  }
+}
+
+@media (max-width: 600px) {
+  .research-gallery {
+    grid-template-columns: 1fr;
+  }
+
+  .research-figure img {
+    height: 220px;
+  }
+
+  .research-gallery.single .research-figure img {
+    height: 240px;
+  }
 }
 </style>
-<section id="research" class="level1">
+<section id="research" class="level1 research-hero">
 <h1>Research</h1>
-<section id="nuclear-envelope-homeostasis-creb3-and-a-novel-form-of-regulated-cell-death-termed-karyoptosis" class="level2">
+<p>Currently, our primary focus is on the detailed mechanisms of karyoptosis, protein stability, and transformation.</p>
+</section>
+<div class="research-wrap">
+<section id="nuclear-envelope-homeostasis-creb3-and-a-novel-form-of-regulated-cell-death-termed-karyoptosis" class="level2 research-card">
 <h2 class="anchored" data-anchor-id="nuclear-envelope-homeostasis-creb3-and-a-novel-form-of-regulated-cell-death-termed-karyoptosis">Nuclear envelope homeostasis, CREB3, and a novel form of regulated cell death termed karyoptosis</h2>
-<p>The term “karyoptosis” was first introduced in 2018 by Professor Manolis Fanto from King’s College London. Professor Fanto observed chronic autophagy suppression in patients with degenerative brain diseases, leading to nuclear envelope abnormalities and genomic leakage, which he termed “karyoptosis.” However, the causative genes and proteins involved in karyoptosis, as well as the molecular mechanisms underlying nuclear envelope rupture, remained unknown. In parallel with Professor Fanto’s work, our research team independently discovered that CREB3-CF overexpression induces nuclear envelope rupture and genomic leakage, ultimately resulting in cell death. During our investigation, we observed a phenomenon that contradicted the prevailing hypothesis—that CREB3-FL, originally localized in the endoplasmic reticulum (ER), is transported to the Golgi apparatus and subsequently cleaved by S1P/S2P proteases to generate CREB3-CF, which then translocates to the nucleus to function as a transcription factor. Instead, we found that CREB3-FL resides within the inner nuclear membrane and binds chromatin to the inner nuclear membrane, thereby providing resistance against the expansive forces exerted by tightly packed chromatin within the nucleus. However, upon exposure to external stimuli inducing DNA damage, CREB3-FL is non-specifically cleaved while still localized at the nuclear envelope. This leads to detachment of chromatin from the inner nuclear membrane, causing a sudden rupture of the nuclear envelope resembling an explosion—resulting in genomic leakage and cell death—captured successfully through real-time live imaging.</p>
-<p>The 2024 paper <em>“Dysregulated CREB3 cleavage at the nuclear membrane induces karyoptosis-mediated cell death,”</em> and <em>“Karyoptosis as a novel type of UVB-induced regulated cell death.”</em> In 2025, this research was further extended to reveal new roles of membrane-bound bZIP transcription factors in chromatin anchoring and karyoptosis.</p>
+<p>The term <em>karyoptosis</em> was first introduced in 2018 by Professor Manolis Fanto from King’s College London. Professor Fanto observed chronic autophagy suppression in patients with degenerative brain diseases, leading to nuclear envelope abnormalities and genomic leakage, which he termed <em>karyoptosis</em>. However, the causative genes and proteins involved in karyoptosis, as well as the molecular mechanisms underlying nuclear envelope rupture, remained unknown.</p>
+<p>In parallel with Professor Fanto’s work, our research team independently discovered that CREB3-CF overexpression induces nuclear envelope rupture and genomic leakage, ultimately resulting in cell death. During our investigation, we observed a phenomenon that contradicted the prevailing hypothesis that CREB3-FL, originally localized in the endoplasmic reticulum, is transported to the Golgi apparatus and subsequently cleaved by S1P/S2P proteases to generate CREB3-CF, which then translocates to the nucleus to function as a transcription factor.</p>
+<p>Instead, we found that CREB3-FL resides within the inner nuclear membrane and binds chromatin to the inner nuclear membrane, thereby providing resistance against the expansive forces exerted by tightly packed chromatin within the nucleus. Upon exposure to external stimuli inducing DNA damage, CREB3-FL is non-specifically cleaved while still localized at the nuclear envelope. This leads to detachment of chromatin from the inner nuclear membrane, causing sudden nuclear envelope rupture, genomic leakage, and cell death, which we successfully captured through real-time live imaging.</p>
+<p>Representative publications include the 2024 paper <em>“Dysregulated CREB3 cleavage at the nuclear membrane induces karyoptosis-mediated cell death,”</em> <em>“Karyoptosis as a novel type of UVB-induced regulated cell death,”</em> and the 2025 work describing new roles of membrane-bound bZIP transcription factors in chromatin anchoring and karyoptosis.</p>
 <div class="research-gallery">
-<p><img src="images/research/1.png" alt="Karyoptosis and CREB3 research image 1"> <img src="images/research/2.png" alt="Karyoptosis and CREB3 research image 2"> <img src="images/research/3.png" alt="Karyoptosis and CREB3 research image 3"></p>
+<div class="research-figure">
+<p><img src="images/research/1.png" class="img-fluid" alt="Karyoptosis and CREB3 research image 1"></p>
+</div>
+<div class="research-figure">
+<p><img src="images/research/2.png" class="img-fluid" alt="Karyoptosis and CREB3 research image 2"></p>
+</div>
+<div class="research-figure">
+<p><img src="images/research/3.png" class="img-fluid" alt="Karyoptosis and CREB3 research image 3"></p>
+</div>
 </div>
 </section>
-<section id="cancer-signal-transduction-and-regulation-of-protein-stability" class="level2">
+<section id="cancer-signal-transduction-and-regulation-of-protein-stability" class="level2 research-card">
 <h2 class="anchored" data-anchor-id="cancer-signal-transduction-and-regulation-of-protein-stability">Cancer signal transduction and regulation of protein stability</h2>
-<p>Research in our laboratory continues to focus on key signaling nodes such as RSK2, ERK, ELK3, FBXW7, STAT2, ERK3, and E2Fs. The central question is how kinase networks, protein–protein interactions, ubiquitination, and protein stability regulation contribute to cancer cell proliferation, transformation, and drug resistance. Representative studies include RSK2–ELK3 promoting breast cancer growth; FBXW7-mediated regulation of STAT2 influencing melanoma development; FBXW7-mediated control of ERK3 suppressing lung cancer cell proliferation; MEKs/ERKs–FBXO1/E2Fs regulating the G1/S transition; the AKT–RSK2 axis promoting cancer cell proliferation; and a 2025 review on the roles of RSK2 and its interacting partners in cancer.</p>
+<p>Research in our laboratory continues to focus on key signaling nodes such as RSK2, ERK, ELK3, FBXW7, STAT2, ERK3, and E2Fs. The central question is how kinase networks, protein–protein interactions, ubiquitination, and protein stability regulation contribute to cancer cell proliferation, transformation, and drug resistance.</p>
+<p>Representative studies include RSK2–ELK3 promoting breast cancer growth; FBXW7-mediated regulation of STAT2 influencing melanoma development; FBXW7-mediated control of ERK3 suppressing lung cancer cell proliferation; MEKs/ERKs–FBXO1/E2Fs regulating the G1/S transition; the AKT–RSK2 axis promoting cancer cell proliferation; and a 2025 review on the roles of RSK2 and its interacting partners in cancer.</p>
 <div class="research-gallery">
-<p><img src="images/research/4.png" alt="Cancer signal transduction research image 1"> <img src="images/research/5.png" alt="Cancer signal transduction research image 2"></p>
+<div class="research-figure">
+<p><img src="images/research/4.png" class="img-fluid" alt="Cancer signal transduction research image 1"></p>
+</div>
+<div class="research-figure">
+<p><img src="images/research/5.png" class="img-fluid" alt="Cancer signal transduction research image 2"></p>
+</div>
 </div>
 </section>
-<section id="innate-immunity-and-inflammatory-signaling-nlrp3-cgassting-and-necroptosis" class="level2">
+<section id="innate-immunity-and-inflammatory-signaling-nlrp3-cgassting-and-necroptosis" class="level2 research-card">
 <h2 class="anchored" data-anchor-id="innate-immunity-and-inflammatory-signaling-nlrp3-cgassting-and-necroptosis">Innate immunity and inflammatory signaling: NLRP3, cGAS/STING, and necroptosis</h2>
-<p>Our team has long focused on the intersection of inflammasomes and innate immunity. From 2018 to 2021, we conducted a series of studies on NLRP3, covering acute gout, suppression of metastasis within the tumor microenvironment, and modulation of inflammasomes through small molecules or post-translational modifications. Subsequently, our research expanded into cGAS/STING and necroptosis. A comprehensive review on cGAS/STING was published in 2023, and in 2024 we reported that RSK2 mediates cGAS phosphorylation to promote cellular transformation. In addition, our work on SPOP–RIPK3 elucidated regulatory mechanisms underlying necroptotic cell death. Thus, our focus extends beyond inflammation itself to the integration of innate immune signaling with tumorigenesis and cell fate determination.</p>
+<p>Our team has long focused on the intersection of inflammasomes and innate immunity. From 2018 to 2021, we conducted a series of studies on NLRP3, covering acute gout, suppression of metastasis within the tumor microenvironment, and modulation of inflammasomes through small molecules or post-translational modifications.</p>
+<p>Subsequently, our research expanded into cGAS/STING and necroptosis. A comprehensive review on cGAS/STING was published in 2023, and in 2024 we reported that RSK2 mediates cGAS phosphorylation to promote cellular transformation. In addition, our work on SPOP–RIPK3 elucidated regulatory mechanisms underlying necroptotic cell death. Thus, our focus extends beyond inflammation itself to the integration of innate immune signaling with tumorigenesis and cell fate determination.</p>
 <div class="research-gallery single">
-<p><img src="images/research/6.png" alt="Innate immunity and inflammatory signaling research image"></p>
+<div class="research-figure">
+<p><img src="images/research/6.png" class="img-fluid" alt="Innate immunity and inflammatory signaling research image"></p>
+</div>
 </div>
 </section>
-<section id="pharmaceutical-translational-research-natural-products-drug-metabolism-toxicology-and-delivery" class="level2">
+<section id="pharmaceutical-translational-research-natural-products-drug-metabolism-toxicology-and-delivery" class="level2 research-card">
 <h2 class="anchored" data-anchor-id="pharmaceutical-translational-research-natural-products-drug-metabolism-toxicology-and-delivery">Pharmaceutical translational research: natural products, drug metabolism, toxicology, and delivery</h2>
-<p>We also pursue pharmaceutical translational research, primarily encompassing three major areas. First, we investigate the anticancer and anti-inflammatory mechanisms of natural products and bioactive compounds, such as kaempferol and fargesin. Second, we study metabolic profiling of drugs and natural products in hepatocytes, cross-species metabolic comparisons, and drug–drug interactions, including work on fargesin, aschantin, and eudesmin. Third, we explore toxicokinetics and delivery systems, such as in vivo distribution studies of phalloidin and delivery-related strategies involving DNA nanostructures and exosomes.</p>
+<p>We also pursue pharmaceutical translational research, primarily encompassing three major areas. First, we investigate the anticancer and anti-inflammatory mechanisms of natural products and bioactive compounds, such as kaempferol and fargesin. Second, we study metabolic profiling of drugs and natural products in hepatocytes, cross-species metabolic comparisons, and drug–drug interactions, including work on fargesin, aschantin, and eudesmin. Third, we explore toxicokinetics and delivery systems, such as <em>in vivo</em> distribution studies of phalloidin and delivery-related strategies involving DNA nanostructures and exosomes.</p>
 <div class="research-gallery single">
-<p><img src="images/research/7.png" alt="Pharmaceutical translational research image"></p>
+<div class="research-figure">
+<p><img src="images/research/7.png" class="img-fluid" alt="Pharmaceutical translational research image"></p>
+</div>
+</div>
+</section>
 </div>
 
 
-</section>
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
