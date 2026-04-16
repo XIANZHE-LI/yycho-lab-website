@@ -6,7 +6,7 @@ title: "Members"
 
 ::::: pi-section
 ::: pi-photo
-![](images/Yong-Yeon%20Cho.jpg){alt="Prof. Yong-Yeon Cho"}
+![](images/Yong-Yeon%20Cho.png){alt="Prof. Yong-Yeon Cho"}
 :::
 
 ::: pi-info
