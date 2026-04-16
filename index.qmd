@@ -2,6 +2,7 @@
 title: ""
 ---
 
+```{=html}
 <style>
 /* ===== Home page styling ===== */
 .hero {
@@ -82,45 +83,43 @@ title: ""
   margin-bottom: 1rem;
 }
 </style>
+```
 
-<div class="hero">
-  <h1>Welcome to Yong-Yeon Cho’s Lab</h1>
-  <p class="subtitle">
-    We study the molecular mechanisms that regulate cellular architecture,
-    membrane-associated signaling, and stress-responsive transcriptional programs.
-  </p>
-</div>
+::: hero
+<h1>Welcome to Yong-Yeon Cho’s Lab</h1>
 
-<div class="section-block">
+<p class="subtitle">
+
+We study the molecular mechanisms that regulate cellular architecture, membrane-associated signaling, and stress-responsive transcriptional programs.
+
+</p>
+:::
+
+::: section-block
 ## About the Lab
 
 Our laboratory has long been engaged in research on cancer signal transduction, protein stability regulation, and regulated cell death. In recent years, our work has primarily focused on molecular stability control associated with tumorigenesis and therapeutic resistance. We have systematically elucidated the roles of signaling networks involving RSK2, FBXW7, STAT2, ERK3, and ELK3 in cancer cell proliferation and transformation.
 
 Concurrently, we have established and advanced a novel research framework for **karyoptosis**, a form of regulated cell death, centered on nuclear envelope homeostasis and aberrant cleavage of CREB3. Furthermore, we continue to expand our investigations into innate immune and inflammatory pathways, including NLRP3, cGAS/STING, and necroptosis, as well as natural product pharmacology, drug metabolism, and translational toxicology. Together, these efforts define a distinctive research profile that integrates fundamental molecular mechanisms with pharmaceutical applications.
-</div>
+:::
 
-<div class="section-block">
+:::: section-block
 ## Research Interests
 
-<div class="interests">
-  <span class="interest-tag">Nuclear membrane biology</span>
-  <span class="interest-tag">Stress-responsive transcription factors</span>
-  <span class="interest-tag">Regulated intramembrane proteolysis</span>
-  <span class="interest-tag">Structural and computational biology</span>
-  <span class="interest-tag">Karyoptosis</span>
-  <span class="interest-tag">Protein stability</span>
-</div>
-</div>
+::: interests
+[Nuclear membrane biology]{.interest-tag} [Stress-responsive transcription factors]{.interest-tag} [Regulated intramembrane proteolysis]{.interest-tag} [Structural and computational biology]{.interest-tag} [Karyoptosis]{.interest-tag} [Protein stability]{.interest-tag}
+:::
+::::
 
-<div class="section-block">
+:::: section-block
 ## News
 
-<div class="news-box">
-Our lab website is currently under construction.  
+::: news-box
+Our lab website is currently under construction.\
 Updates on new projects, publications, and lab activities will be posted here soon.
-</div>
-</div>
+:::
+::::
 
-<div class="home-note">
+::: home-note
 Exploring molecular mechanisms from fundamental biology to translational application.
-</div>
+:::
