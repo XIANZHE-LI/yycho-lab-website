@@ -14,45 +14,63 @@ title: "Members"
 :::
 
 ::: student-card
-![](images/student-b.jpg){.student-photo alt="Student B"}
+![](images/YM.jpg){.student-photo alt="Student B"}
 
-### Student B
+### You-Min Park
 
-[studentb\@email.com](mailto:studentb@email.com)
+[hhncochh\@gmail.com](mailto:hhncochh@gmail.com)
 :::
 
 ::: student-card
 ![](images/student-c.jpg){.student-photo alt="Student C"}
 
-### Student C
+### Student D
 
 [studentc\@email.com](mailto:studentc@email.com)
 :::
+
+::: student-card
+![](images/student-c.jpg){.student-photo alt="Student C"}
+
+### Student E
+
+[studentc\@email.com](mailto:studentc@email.com)
+:::
+
+::: student-card
+![](images/student-c.jpg){.student-photo alt="Student C"}
+
+### Student F
+
+[studentc\@email.com](mailto:studentc@email.com)
+:::
+
+
 ::::::
 
 # Collaborating Professors
 
 ::::: collab-section
 ::: collab-photo
-![](images/){alt="Prof. Collaborator One"}
+![](images/Daehun Park.jpg){alt="Prof. Collaborator One"}
 :::
 
 ::: collab-info
-## Prof. Collaborator One
+## Prof. Daehun Park
 
-**Professor, Department of XXXXX, University Name**
+**Assistant Professor, Department of Medical and Biological Sciences, The Catholic University of Korea**
 
-**Email:** [prof1\@university.edu](mailto:prof1@university.edu)\
-**Website:** [Personal Website](https://example.com)
+**Email:** [daehun.park\@catholic.ac.kr](mailto:daehun.park@catholic.ac.kr)\
+**Website:** [Lab Website](https://neuromedicallab.imweb.me/index)
 
-Prof. Collaborator One is a collaborating faculty member of YYCho Lab. His/Her research focuses on cancer biology, signal transduction, and translational approaches for disease treatment. He/She works closely with our group on projects related to cell death, stress signaling, and therapeutic target discovery.
+Prof. Daehun Park is a collaborating faculty member of YYCho Lab. His research focuses on Synaptic vesicles, which contain neurotransmitters, are tightly clustered in presynaptic nerve terminals. They are trying to understand the key molecular mechanisms of synaptic vesicle biogenesis and how they can be separated from other macromolecule condensates in nerve terminals. Based on this knowledge, we are applying the basic principles of synaptic physiology to understand the onset and progression of neurodegenerative diseases such as Parkinson’s disease and Alzheimer’s disease.
 
 ### Research Interests
 
--   Signal transduction
--   Cancer biology
--   Translational research
--   Cell death and stress response
+-   Synaptic physiology
+-   LLPS
+-   Parkinson’s disease and Alzheimer’s disease
+-   Neuro medical
 :::
 :::::
 
@@ -79,3 +97,30 @@ Prof. Xu Wang collaborates with YYCho Lab in the fields of molecular pharmacolog
 -   Therapeutic target discovery
 :::
 :::::
+
+
+::::: collab-section
+::: collab-photo
+![](images/){alt="Prof. Collaborator 3"}
+:::
+
+::: collab-info
+## Prof. Collaborator One
+
+**Professor, Department of XXXXX, University Name**
+
+**Email:** [prof1\@university.edu](mailto:prof1@university.edu)\
+**Website:** [Personal Website](https://example.com)
+
+Prof. Collaborator One is a collaborating faculty member of YYCho Lab. His/Her research focuses on cancer biology, signal transduction, and translational approaches for disease treatment. He/She works closely with our group on projects related to cell death, stress signaling, and therapeutic target discovery.
+
+### Research Interests
+
+-   Signal transduction
+-   Cancer biology
+-   Translational research
+-   Cell death and stress response
+:::
+:::::
+
+
