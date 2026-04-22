@@ -67,7 +67,7 @@ Prof. Collaborator One is a collaborating faculty member of YYCho Lab. His/Her r
 **Professor, School of Pharmaceutical Science, Wenzhou Medical University**
 
 **Email:** [wang_xu2003\@wmu.edu.cn](mailto:wang_xu2003@wmu.edu.cn)\
-**Website:** [Lab Website](https://example.com)
+**Website:** [Lab Website](https://yxy.wmu.edu.cn/info/1124/10098.htm)
 
 Prof. Xu Wang collaborates with YYCho Lab in the fields of molecular pharmacology, regulated cell death,and disease mechanism studies. He has long been dedicated to investigating the pathogenic mechanismsof cardiovascular diseases, identifying intervention targets, and uncovering therapeutic mechanisms. Hefirst revealed the critical roles and underlying mechanisms of FGF18, FGF7, and FGF20 in maintainingmyocardial homeostasis. The study demonstrated that FGFs possess dual activities-suppressing reactiveoxygen species (ROS) generation and clearing accumulated ROS-thereby enabling a single factor tomodulate multiple targets. This mechanism restores redox balance and maintains redox homeostasis incardiomyocytes. These findings confirm the feasibility of a single factor simultaneously regulating boththe production and elimination of oxygen free radicals, providing novel evidence to support therefinement of intervention strategies for heart disease and the development of biopharmaceuticals
 
