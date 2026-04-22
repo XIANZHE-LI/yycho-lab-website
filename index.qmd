@@ -2,7 +2,7 @@
 title: ""
 ---
 
-:::: {.hero .reveal}
+::::::::::::::::: {.hero .reveal}
 <h1>Welcome to Yong-Yeon Cho’s Lab</h1>
 
 <p class="subtitle">
@@ -11,9 +11,15 @@ We are dedicated to deciphering the core mechanisms of karyoptosis, striving to 
 
 </p>
 
-::: hero-video-wrap
-<video class="hero-video" autoplay muted loop playsinline controls> <source src="videos/karyoptosis-live-imaging.mp4" type="video/mp4"> </video>
+:::::::::::::::: hero-video-wrap
+<video class="hero-video" autoplay muted loop playsinline controls>
+
+<source src="videos/karyoptosis-live-imaging.mp4" type="video/mp4">
+
+</video>
+
 :::
+
 ::::
 
 ::: {.section-block .reveal}
@@ -28,7 +34,7 @@ Furthermore, our work continues to expand into innate immune and inflammatory pa
 
 ::::: {.pi-section .reveal}
 ::: pi-photo
-![](images/yong-yeon-cho-1.jpg)
+![](images/Yong-Yeon Cho.png)
 :::
 
 ::: pi-info
@@ -92,7 +98,7 @@ Updates on new projects, publications, and lab activities will be posted here so
 Exploring molecular mechanisms from fundamental biology to translational application.
 :::
 
-\`\`\`{=html}
+
 
 ```{=html}
 <script>
@@ -110,3 +116,4 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 ```
+
