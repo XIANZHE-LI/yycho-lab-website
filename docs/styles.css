@@ -745,27 +745,3 @@ h1, h2, h3, h4 {
     grid-template-columns: 1fr;
   }
 }
-
-
-
-.news-box {
-  background: white;
-  border-radius: 18px;
-  padding: 24px 28px;
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
-  line-height: 1.9;
-  font-size: 1.05rem;
-}
-
-.news-box p {
-  margin: 0 0 1.2rem 0;
-}
-
-.news-box p:last-child {
-  margin-bottom: 0;
-}
-
-.news-journal {
-  color: red;
-  font-weight: 700;
-}

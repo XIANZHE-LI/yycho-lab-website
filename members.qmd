@@ -2,37 +2,6 @@
 title: "Members"
 ---
 
-# Principal Investigator
-
-::::: pi-section
-::: pi-photo
-![](images/Yong-Yeon%20Cho.png){alt="Prof. Yong-Yeon Cho"}
-:::
-
-::: pi-info
-## Prof. Yong-Yeon Cho
-
-**Professor, College of Pharmacy, The Catholic University of Korea**
-
-### Academic Positions
-
--   (2015–2020) College of Pharmacy, The Catholic University of Korea, Associate Professor
--   (2020–present) College of Pharmacy, The Catholic University of Korea, Professor
--   (2016–2018) Integrative Research Institute Pharmaceutical Sciences, The Catholic University of Korea, Director
--   (2022–present) College of Pharmacy, The Catholic University of Korea, Dean
-
-### Research Interests
-
--   Protein Stability Regulation by Ubiquitination
--   Regulated Cell Death (RCD)
--   Cancer Development and Carcinogenesis
--   Chemoresistance
--   Karyoptosis
-
-**Email:** [yongyeon\@catholic.ac.kr](mailto:your_email@catholic.ac.kr)
-:::
-:::::
-
 # Graduate Students
 
 :::::: student-grid
@@ -60,3 +29,53 @@ title: "Members"
 [studentc\@email.com](mailto:studentc@email.com)
 :::
 ::::::
+
+# Collaborating Professors
+
+::::: collab-section
+::: collab-photo
+![](images/collab-prof-1.jpg){alt="Prof. Collaborator One"}
+:::
+
+::: collab-info
+## Prof. Collaborator One
+
+**Professor, Department of XXXXX, University Name**
+
+**Email:** [prof1\@university.edu](mailto:prof1@university.edu)\
+**Website:** [Personal Website](https://example.com)
+
+Prof. Collaborator One is a collaborating faculty member of YYCho Lab. His/Her research focuses on cancer biology, signal transduction, and translational approaches for disease treatment. He/She works closely with our group on projects related to cell death, stress signaling, and therapeutic target discovery.
+
+### Research Interests
+
+-   Signal transduction
+-   Cancer biology
+-   Translational research
+-   Cell death and stress response
+:::
+:::::
+
+::::: collab-section
+::: collab-photo
+![](images/Xu Wang.jpg){alt="Prof. Collaborator Two"}
+:::
+
+::: collab-info
+## Prof. Xu Wang
+
+**Professor, School of Pharmaceutical Science, Wenzhou Medical University**
+
+**Email:** [ wang_xu2003\@wmu.edu.cn]( wang_xu2003@wmu.edu.cn)\
+**Website:** [Lab Website](https://yxy.wmu.edu.cn/info/1124/10098.htm)
+
+Prof. Xu Wang collaborates with YYCho Lab in the fields of molecular pharmacology, regulated cell death, and disease mechanism studies. He has long been dedicated to investigating the pathogenic mechanisms of cardiovascular diseases, identifying intervention targets, and uncovering therapeutic mechanisms. He first revealed the critical roles and underlying mechanisms of FGF18, FGF7, and FGF20 in maintaining myocardial homeostasis. The study demonstrated that FGFs possess dual activities—suppressing reactive oxygen species (ROS) generation and clearing accumulated ROS—thereby enabling a single factor to modulate multiple targets. This mechanism restores redox balance and maintains redox homeostasis in cardiomyocytes. These findings confirm the feasibility of a single factor simultaneously regulating both the production and elimination of oxygen free radicals, providing novel evidence to support the refinement of intervention strategies for heart disease and the development of biopharmaceuticals.
+
+### Research Interests
+
+-   Molecular pharmacology
+-   Regulated cell death
+-   Pharmacology of Cardiovascular Diseases
+-   Fibroblast growth factors
+:::
+:::::
