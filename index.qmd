@@ -89,7 +89,7 @@ His work has particularly focused on **protein stability regulation** and **kary
 ## News
 
 ::: news-box
-<p>Prof. Cho, as co-corresponding author, has had the manuscript <em>Karyoptosis mediate cell death and neurodegeneration upon proteotoxic stress</em> accepted for publication in [Nature Communications (IF 14.7)]{.news-journal}. We look forward to its publication.</p>
+<p>Prof. Cho, as co-author, has had the manuscript <em>Karyoptosis mediate cell death and neurodegeneration upon proteotoxic stress</em> accepted for publication in [Nature Communications (IF 14.7)]{.news-journal}. We look forward to its publication.</p>
 
 <p>Prof. Cho, as co-corresponding author, has had the manuscript <em>RPS6KA3/RSK2-mediated phosphorylation of DRAM2 promotes lysosomal targeting and autophagic flux in melanoma</em> accepted for publication in [Autophagy (IF 14.3)]{.news-journal}. We look forward to its publication.</p>
 :::
