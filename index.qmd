@@ -57,22 +57,22 @@ His work has particularly focused on **protein stability regulation** and **kary
 ::: cv-card
 ### Educational Experience
 
--   **1991** — Bachelor, Department of Biology, Chungnam National University, Korea\
--   **1993** — Master, Department of Biology, Graduate School of Chungnam National University, Korea\
--   **2000** — Ph.D., Tohoku University, Japan
+- **1991** — Bachelor, Department of Biology, Chungnam National University, Korea\
+- **1993** — Master, Department of Biology, Graduate School of Chungnam National University, Korea\
+- **2000** — Ph.D., Tohoku University, Japan
 :::
 
 ::: cv-card
 ### Professional Experience
 
--   **1991.01–1994.05** — Scientist, KRIBB\
--   **1994.06–2001.12** — Scientist, KFDA\
--   **2001.12–2005.05** — Postdoctoral Fellow, Hormel Institute, University of Minnesota\
--   **2005.06–2011.01** — Research Assistant Professor, Hormel Institute, University of Minnesota\
--   **2011.02–present** — Assistant, Associate, and Full Professor, College of Pharmacy, The Catholic University of Korea\
--   **2015.03–2018.02** — Dean, College of Pharmacy, The Catholic University of Korea\
--   **2022.02–2025.04** — Director, Integrated Research Institute of Pharmaceutical Sciences, The Catholic University of Korea\
--   **2022.09–2024.12** — Director, Research Institute for RCD·Materials
+- **1991.01–1994.05** — Scientist, KRIBB\
+- **1994.06–2001.12** — Scientist, KFDA\
+- **2001.12–2005.05** — Postdoctoral Fellow, Hormel Institute, University of Minnesota\
+- **2005.06–2011.01** — Research Assistant Professor, Hormel Institute, University of Minnesota\
+- **2011.02–present** — Assistant, Associate, and Full Professor, College of Pharmacy, The Catholic University of Korea\
+- **2015.03–2018.02** — Dean, College of Pharmacy, The Catholic University of Korea\
+- **2022.02–2025.04** — Director, Integrated Research Institute of Pharmaceutical Sciences, The Catholic University of Korea\
+- **2022.09–2024.12** — Director, Research Institute for RCD·Materials
 :::
 :::::
 ::::::
@@ -89,9 +89,11 @@ His work has particularly focused on **protein stability regulation** and **kary
 ## News
 
 ::: news-box
-<p>Prof. Cho, as co-author, has had the manuscript <em>Karyoptosis mediate cell death and neurodegeneration upon proteotoxic stress</em> accepted for publication in [Nature Communications (IF 14.7)]{.news-journal}. We look forward to its publication.</p>
+<p>Prof. Cho, as corresponding author, has had the manuscript <em>Karyoptosis prevents the proliferation of colon cancer cells via p21/Rb-dependent and p53-independent signaling pathways</em> online for publication in [Journal of Pharmaceutical Analysis (IF 11.2)]{.news-journal}.</p>
 
-<p>Prof. Cho, as co-corresponding author, has had the manuscript <em>RPS6KA3/RSK2-mediated phosphorylation of DRAM2 promotes lysosomal targeting and autophagic flux in melanoma</em> accepted for publication in [Autophagy (IF 14.3)]{.news-journal}. We look forward to its publication.</p>
+<p>Prof. Cho, as co-author, has had the manuscript <em>Karyoptosis mediate cell death and neurodegeneration upon proteotoxic stress</em> online for publication in [Nature Communications (IF 14.7)]{.news-journal}.</p>
+
+<p>Prof. Cho, as co-corresponding author, has had the manuscript <em>RPS6KA3/RSK2-mediated phosphorylation of DRAM2 promotes lysosomal targeting and autophagic flux in melanoma</em> online for publication in [Autophagy (IF 14.3)]{.news-journal}.</p>
 :::
 
 ::: home-note
@@ -115,6 +117,14 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 ```
 :::::
+
+:::::::::::::::::
+
+::::::::::::::::
+
+:::::::::::::::::
+
+::::::::::::::::
 
 :::::::::::::::::
 ::::::::::::::::
